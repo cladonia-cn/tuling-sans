@@ -1,4 +1,4 @@
-###### [您可以点击此行文本阅读中文版本。]()
+###### [您可以点击此行文本阅读中文版本。](https://github.com/cladonia-cn/Tuling-Sans/blob/main/readme/zh-cn.md)
 ## What is Tuling Sans
 An open source, free and commercially available western language art form. It is the first font launched by Cladonia's designers. 
 ## The Feature
