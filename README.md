@@ -1,12 +1,10 @@
+[![Download](https://img.shields.io/badge/Download-1.9.0-%2316E391?style=flat-square&labelColor=%23094F22)](https://github.com/cladonia-cn/tuling-sans/releases)  ![](https://img.shields.io/badge/Characters%20Quantity-88-%231D77FF?style=flat-square&labelColor=%23152964)![](https://img.shields.io/badge/Status-In%20Production-%23A456FD?style=flat-square&labelColor=%233A1564)
 # Tuling Sans
-
 An open source, free and commercially available western language art form. It is the first font launched by Cladonia's designers. 
 ## The Feature
 It has a unique geometric style and some subtle special treatments, such as 12 triangle cutting on characters such as "B", "D" and "H" and "A", "B" and "D". Part of the width of characters such as "N" and so on is gradually getting lower and lower ... 
 ![Font detail preview](https://s1.ax1x.com/2023/06/18/pClxxCd.png)
 **The Version 1.9 has partial OpenType word spacing characteristics.**
-## Status
-It has adapted to 88 characters in western languages and Arabic numerals,And is constantly evolving and iterating.
 ## License
 This font use the SIL Open Font License, v1.1.  
 The SIL Open Font License has an option for copyright holders to include a Reserved Font Name.
